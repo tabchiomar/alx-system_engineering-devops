@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -i "^[a-z]|^[A-Z]" /etc/passwd
+egrep -i "^[a-z]" /etc/passwd
